@@ -1,12 +1,12 @@
 package latihan.aritmatika;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Implementasi operasi aritmatika
+ */
 public class Aritmatika {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Implementasi operasi aritmatika
-     */
+	
 	 public static void main(String[] args) {
 	        int a = 10;
 	        int b = 20;
